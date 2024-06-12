@@ -1,4 +1,4 @@
-# DS5500_Wikipedia_Vector_Database
+# DS5500 Wikipedia Vector Database
 
 ## Project 1 - Wikipedia Vector Database
 ### wiki_vectors.ipynb contents
